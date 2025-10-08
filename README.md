@@ -13,14 +13,14 @@ It will be saved into your users home folder by default the file will contain yo
 There is none i just did this as a passion project to test myself. 
 
 # Will you Update this? 
-Probably note unless someone discovers something Game breaking due to it being an already existing Game. 
+Probably not unless someone discovers something Game breaking due to it being an already existing Game. 
 
 # Licensing 
 Check the license in the Repo. 
 
 # Final Notes 
 I do not claim to have invented this Game all Credit goes to Gabriele Cirulli for the Original Game Design. 
-This is mainly uploaded here for the future as a reference or for myself but if you have fun with it you do put a smile on my face. :)
-Matttiu
+This is mainly uploaded here for the future as a reference or for myself but if you have fun with it you do put a smile on my face :)
+
 
 
