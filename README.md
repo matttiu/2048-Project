@@ -7,7 +7,7 @@ Download Python 3.13.
 Download Main.py and execute it.
 
 # Controls 
-Just use the Arrow Keys thats the only input this gane will take.
+Just use the Arrow Keys thats the only input this game will take.
 
 # Where is the Gamestate File? 
 It will be saved into your users home folder by default the file will contain your current score, the highscore, the last spawned tile and the board layout. 
